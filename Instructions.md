@@ -1,14 +1,17 @@
 ## Основные команды git
 
-* git status
-* git --version
-* git add
-* git commit
-* git log
-* git branch
-* git checkout
-* git merge
-* git diff
-* git --graph
+* git status - проверка статуса репозитория
+* git --version - показывает версию ПО git
+* git add - добавление файлов в индекс
+* git commit - фиксация изменений в репозитории
+* git log - просмотр журнала коммитов
+* git branch - просмотр веток
+* git checkout - переключение между ветками
+* git merge - слияние веток репозитория
+* git diff - просмотр изменений до коммита
+
+## Команды git для работы с удаленными репохиториями
+
 * git push
 * git pull
+* git clone
