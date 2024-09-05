@@ -10,3 +10,5 @@
 * git merge
 * git diff
 * git --graph
+* git push
+* git pull
